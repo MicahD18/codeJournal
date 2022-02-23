@@ -1,3 +1,3 @@
 # Using Paths in Swift
 
-[Find Demo Here](Paths%20Reflection)
+[Find Demo Here](Paths%20Demo)
