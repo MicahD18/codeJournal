@@ -1,6 +1,6 @@
 # Building a basic Angular component
 
-[Find Demo Here](raceTrack)
+[Find Demo Here](https://github.com/MicahD18/raceTrack)
 
 ### 1. First I created a driver component.       
 
